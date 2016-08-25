@@ -1,0 +1,57 @@
+
+
+hr{
+	background-color:black;
+	height:3px;
+	margin-right: 90%;
+	margin-bottom: 30px;
+}
+.perfil1{
+	width: 200px;
+	height: 200px;
+	background-image: url("../img/profile-1.png");
+	float:left;
+	margin-bottom: 20px;
+}
+.perfil2{
+	width: 200px;
+	height: 200px;
+	background-image: url("../img/profile-2.png");
+	float:left;
+	margin-right: 20px;
+	margin-left: 20px;
+}
+.perfil3{
+	width: 200px;
+	height: 200px;
+	background-image: url("../img/profile-3.png");
+	float:left;
+}
+.perfil4{
+    width: 200px;
+	height: 200px;
+	background-image: url("../img/profile-4.png");
+    clear:both;
+    float:left;
+}
+.perfil5{
+	width: 200px;
+	height: 200px;	
+	background-image: url("../img/profile-5.png");
+	float:left;
+	margin-right: 20px;
+	margin-left: 20px;
+
+}
+.perfil6{
+	width: 200px;
+	height: 200px;
+	background-image: url("../img/profile-6.png");
+	float:left;
+}
+p{
+	color:white;
+	position:relative;
+	top:160px;
+	left:70px;
+}
